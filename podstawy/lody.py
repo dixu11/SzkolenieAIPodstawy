@@ -4,7 +4,7 @@
 # Wypisz cenę po zniżce. 
 # Zmiana ceny za gałkę powinna wymagać jednej modyfikacji w kodzie (wykorzystaj zmienne)
 
-ilosc_lodow = 5
+ilosc_lodow = 2
 cena_galki = 5
 promocja = -1
 
@@ -14,6 +14,16 @@ cena_lodow = ilosc_lodow * cena_galki
 print('Koszt: ' , cena_lodow , "zł")
 promocja_zl = ilosc_lodow // 2 * promocja
 print( 'Cena z promocją ',  promocja_zl + cena_lodow , 'zł' )
+duzy = ilosc_lodow >=3
+maly = ilosc_lodow == 1
+
+print(f'Duży lód: {duzy}')
+print(f'Czy mały? {maly}')
+print(f'Sredni: {not maly and not duzy}')
+print(f'Mały lub duży? {maly or duzy}')
+
+#not and or 
+
 
 
 

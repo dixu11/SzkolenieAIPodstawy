@@ -12,3 +12,4 @@ print('Oprocentowanie wynosi: 1%')
 ostateczna_cena = cena_raty * (1 + oprocentowanie)
 print(f'Rata z oprocentowaniem:{  ostateczna_cena:.6}zł') #z ilu wartości ma składać się liczbowy wynik
 print(f'Rata z oprocentowaniem:{ format(ostateczna_cena,'.2f')}zł') # pełna kontrola nad liczbami po przecinku
+
