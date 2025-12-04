@@ -13,6 +13,7 @@ print(tablica.shape)
 wielowymiarowa = np.array([[11,22,33], [1,2,3]])
 print(wielowymiarowa.shape)
 
+print(lista * 2)
 print(tablica * 2)
 print(tablica * 10)
 print(tablica ** 2)
