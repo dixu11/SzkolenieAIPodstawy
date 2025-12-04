@@ -1,7 +1,3 @@
-
-
-
-
 print('Ilość lodów: ')
 
 ilosc_lodow = int(input()) # input zostawia zawsze tekst aby na tym liczyć trzeba przekonwertowac na float lub na int
