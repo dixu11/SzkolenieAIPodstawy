@@ -1,0 +1,31 @@
+,OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate,Shipped,Country,Person Country
+1,1002,Sarah Lee,Headphones,Electronics,2.0,150.0,2024-06-03,No,Canada,Sarah Lee Canada
+3,1004,Alice Wong,Desk Lamp,Furniture,3.0,45.0,2024-06-05,Yes,Singapore,Alice Wong Singapore
+4,1005,Carlos Mendez,Keyboard,Electronics,2.0,80.0,2024-06-06,No,Mexico,Carlos Mendez Mexico
+8,1009,Maria Rossi,Pen,Stationery,10.0,1.5,2024-06-10,Yes,Italy,Maria Rossi Italy
+9,1010,Takeshi Nakamura,Mouse,Electronics,1.0,35.0,2024-06-11,Yes,Japan,Takeshi Nakamura Japan
+10,1011,Sophie Martin,Webcam,Furniture ,1.0,85.0,2024-06-12,Yes,France,Sophie Martin France
+11,1012,Raj Patel,File Cabinet,Furniture,2.0,180.0,2024-06-13,No,India,Raj Patel India
+13,1014,Diego Rodriguez,USB Drive,Electronics,5.0,25.0,2024-06-15,Yes,Spain,Diego Rodriguez Spain
+15,1016,Ahmed Hassan,Printer Paper,home office,20.0,8.0,2024-06-17,Yes,Egypt,Ahmed Hassan Egypt
+16,1017,Anna Kowalski,Wireless Mouse,Electronics,2.0,0.0,2024-06-18,Yes,Poland,Anna Kowalski Poland
+17,1018,Michael Brown,Desk Organizer,Furniture,1.0,65.0,2024-06-19,No,USA,Michael Brown USA
+18,1019,Yuki Tanaka,Calculator,Electronics,1.0,15.0,2024-06-20,Yes,Japan,Yuki Tanaka Japan
+19,1020,Fatima Al-Zahra,Whiteboard,Furniture,1.0,120.0,2024-06-21,Yes,Saudi Arabia,Fatima Al-Zahra Saudi Arabia
+21,1022,Isabella Silva,Bluetooth Speaker,Electronics,1.0,95.0,2024-06-23,Yes,Brazil,Isabella Silva Brazil
+22,1023,Oliver Schmidt,Office Plant,Furniture,2.0,35.0,2024-06-24,Yes,Germany,Oliver Schmidt Germany
+23,1024,Zara Ahmed,Sticky Notes,Stationery,15.0,4.0,2024-06-25,No,Pakistan,Zara Ahmed Pakistan
+24,1025,Lucas Anderson,Tablet Stand,Electronics,1.0,28.0,2024-06-26,Yes,Sweden,Lucas Anderson Sweden
+26,1027,Miguel Torres,Desk Chair Mat,Furniture,1.0,22.0,2024-06-28,No,Argentina,Miguel Torres Argentina
+27,1028,Nina Petrov,Binder Clips,Stationery,12.0,2.5,2024-06-29,Yes,Russia,Nina Petrov Russia
+28,1029,Seo-yeon Kim,Wireless Keyboard,Electronics,1.0,110.0,2024-06-30,Yes,South Korea,Seo-yeon Kim South Korea
+29,1030,Giuseppe Romano,Desk Calendar,Furniture,1.0,18.0,2024-07-01,No,Italy,Giuseppe Romano Italy
+31,1032,Thomas Müller,Document Scanner,Electronics,1.0,140.0,2024-07-03,Yes,Germany,Thomas Müller Germany
+32,1033,Sofia Rodriguez,Desk Drawer Organizer,Furniture,1.0,42.0,2024-07-04,No,Colombia,Sofia Rodriguez Colombia
+33,1034,Alex Johnson,Index Cards,Stationery,100.0,0.8,2024-07-05,Yes,USA,Alex Johnson USA
+34,1035,Yuki Yamamoto,Monitor Stand,Electronics,1.0,55.0,2024-07-06,Yes,Japan,Yuki Yamamoto Japan
+35,1036,Emma Thompson,Desk Lamp with USB,Furniture,1.0,68.0,2024-07-07,No,UK,Emma Thompson UK
+36,1037,Carlos Santos,Wireless Earbuds,Electronics,1.0,125.0,2024-07-08,Yes,Portugal,Carlos Santos Portugal
+37,1038,Leila Mansouri,Desk Pad,Furniture,1.0,28.0,2024-07-09,Yes,Iran,Leila Mansouri Iran
+38,1039,Daniel Kim,Power Strip,Electronics,2.0,18.0,2024-07-10,No,South Korea,Daniel Kim South Korea
+39,1040,Anna Ivanova,Desk Clock,Furniture,1.0,35.0,2024-07-11,Yes,Ukraine,Anna Ivanova Ukraine
