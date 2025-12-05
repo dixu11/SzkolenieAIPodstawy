@@ -1,0 +1,23 @@
+OrderID,CustomerName,Product,Category,Quantity,Price,OrderDate,Shipped,Country,Total
+1001,John Smith,Laptop,electronics,1.0,1200.0,2024-06-01,Yes,USA,1200.0
+1003,Ali Khan,Office Chair,Furniture,1.0,300.0,2024-06-04,Yes,UAE,300.0
+1004,Alice Wong,Desk Lamp,Furniture,3.0,45.0,2024-06-05,Yes,Singapore,135.0
+1007,Emily Davis,Standing Desk,Furniture,1.0,450.0,2024-06-08,Yes,UK,450.0
+1009,Maria Rossi,Pen,Stationery,10.0,1.5,2024-06-10,Yes,Italy,15.0
+1010,Takeshi Nakamura,Mouse,Electronics,1.0,35.0,2024-06-11,Yes,Japan,35.0
+1011,Sophie Martin,Webcam,Furniture ,1.0,85.0,2024-06-12,Yes,France,85.0
+1014,Diego Rodriguez,USB Drive,Electronics,5.0,25.0,2024-06-15,Yes,Spain,125.0
+1016,Ahmed Hassan,Printer Paper,home office,20.0,8.0,2024-06-17,Yes,Egypt,160.0
+1019,Yuki Tanaka,Calculator,Electronics,1.0,15.0,2024-06-20,Yes,Japan,15.0
+1020,Fatima Al-Zahra,Whiteboard,Furniture,1.0,120.0,2024-06-21,Yes,Saudi Arabia,120.0
+1022,Isabella Silva,Bluetooth Speaker,Electronics,1.0,95.0,2024-06-23,Yes,Brazil,95.0
+1023,Oliver Schmidt,Office Plant,Furniture,2.0,35.0,2024-06-24,Yes,Germany,70.0
+1025,Lucas Anderson,Tablet Stand,Electronics,1.0,28.0,2024-06-26,Yes,Sweden,28.0
+1028,Nina Petrov,Binder Clips,Stationery,12.0,2.5,2024-06-29,Yes,Russia,30.0
+1029,Seo-yeon Kim,Wireless Keyboard,Electronics,1.0,110.0,2024-06-30,Yes,South Korea,110.0
+1032,Thomas Müller,Document Scanner,Electronics,1.0,140.0,2024-07-03,Yes,Germany,140.0
+1034,Alex Johnson,Index Cards,Stationery,100.0,0.8,2024-07-05,Yes,USA,80.0
+1035,Yuki Yamamoto,Monitor Stand,Electronics,1.0,55.0,2024-07-06,Yes,Japan,55.0
+1037,Carlos Santos,Wireless Earbuds,Electronics,1.0,125.0,2024-07-08,Yes,Portugal,125.0
+1038,Leila Mansouri,Desk Pad,Furniture,1.0,28.0,2024-07-09,Yes,Iran,28.0
+1040,Anna Ivanova,Desk Clock,Furniture,1.0,35.0,2024-07-11,Yes,Ukraine,35.0
