@@ -24,10 +24,3 @@ def sumuj_liczby(number1, number2):
 wynik = sumuj_liczby(10,15)
 
 print(f'wynik to: {wynik * 1.07:.6} (w tym 7% watu)')
-
-
-
-
-
-
-
